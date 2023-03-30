@@ -1,2 +1,2 @@
 # Kevin-
-Repositorio SQL del Sena 
+Repositorio creado para el curso SQL del Sena 
